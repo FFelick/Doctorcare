@@ -471,6 +471,10 @@ footer p {
 footer .social-links {
     justify-content: flex-start;
 }
+footer .footer_me {
+    color: unset;
+    text-decoration: none;
+}
 
 /* ========== BACK TO TOP ========== */
 #backToTopButton {
